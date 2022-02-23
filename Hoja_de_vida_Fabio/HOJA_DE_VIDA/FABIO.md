@@ -20,3 +20,12 @@ TELÉFONO:**************************3017012564
 
 E-MAIL:****************************fabioandresdelahozgar@gmai.com
 
+
+# ESTUDIOS
+
+
+| COLEGIO | LUGAR | AÑOS | AÑO DE FINALIZACION 
+| ------ | ----------- | ----- | ------------------- 
+| Institucion educativa fransisco jose de caldas  | Soledad(Atlantico) | 11 años | 2021
+
+
