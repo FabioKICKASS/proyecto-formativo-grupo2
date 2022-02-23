@@ -1,4 +1,4 @@
-![Foto hoja de vida](C:\Users\Orlando\Documents\GitHub\proyecto-formativo-grupo2\fotohojadevida.jpg)
+![Foto hoja de vida](C:\Users\Orlando\Documents\GitHub\proyecto-formativo-grupo2\tonykroos.jpg)
 
 # DATOS PERSONALES
 
