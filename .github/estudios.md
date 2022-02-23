@@ -8,3 +8,9 @@
 
 
 
+# Cursos 
+
+
+| CENTRO |  |Inicio| FINALIZACION 
+| ------ | ----------- | ----- | ------------------- 
+| OK class (Curso de ingles) | Barranquilla(Atlantico) | 10/08/2021 | 12/12/2021
