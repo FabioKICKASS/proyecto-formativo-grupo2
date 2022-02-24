@@ -1,4 +1,4 @@
-![Foto hoja de vida](https://drive.google.com/file/d/1KHqYlQ2aqZHldGHeWwuQMSMRGAl710LU/view?usp=sharing)
+![Foto hoja de vida](C:\Users\fabio\OneDrive\Documentos\GitHub\proyecto-formativo-grupo2\Hoja_de_vida_Fabio\Foto.jpg)
 
 # DATOS PERSONALES
 
