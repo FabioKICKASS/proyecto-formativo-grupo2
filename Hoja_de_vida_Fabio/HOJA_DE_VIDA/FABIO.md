@@ -1,31 +1,43 @@
-![Foto hoja de vida](C:\Users\fabio\OneDrive\Documentos\GitHub\proyecto-formativo-grupo2\Hoja_de_vida_Fabio\Foto.jpg)
-
-# DATOS PERSONALES
-
-NOMBRES Y APELLIDOS:***************FABIO ANDRES DE LA HOZ GARCIA  
- 
-FECHA DE NACIMIENTO:***************10/11/2004  
-
-TARJETA DE IDENTIDAD:**************1.129.531.448 
-
-SEXO:******************************Masculino 
-
-ESTADO CIVIL:**********************Soltero
-
-BARRIO:****************************REBOLO
-
-DIRECCIÓN:*************************Calle 19 #26-91 
-
-TELÉFONO:**************************3017012564
-
-E-MAIL:****************************fabioandresdelahozgar@gmai.com
+## nombres y apellidos :  cortes barrios william andres
+![Mi foto](C:\Users\fabio\OneDrive\Documentos\GitHub\proyecto-formativo-grupo2\Hoja_de_vida_Fabio\Foto.jpg)
 
 
-# ESTUDIOS
+| Datos | Valores |
+|---|---|
+|Dirección: | CARRERA 84N 108-21 |                                 
+|Barrio: | LAS FLORES|
+|Ciudad | Barranquilla-Atlántico | 
+| Teléfono | 3186092944 |
+| E-mail | williamcortesbarrios32@gmail.com |
+
+## PERFIL
+Soy una persona que le gustan los retos y estoy dispuesto a cumplir todas mis metas y logro y superar todos los obstáculos y me gusta ser una persona perseverante 
+
+## DATOS PERSONALES 
+| Datos | Valores |
+|---|---|
+|Identificación  | 1047036364|
+|Fecha de nacimiento | 10/08/2004 |
+|Edad | 17 años |
+|Estado Civil | Soltero |
+
+## INFORMACIÓN ACADEMICA 
+| Datos | Valores |
+|---|---|
+| Estudios secundarios:  | I E D Las Flores (2021) |
+|Estudios primarios:      |  I E D Las Flores (2014)| 
 
 
-| COLEGIO | LUGAR | AÑOS | AÑO DE FINALIZACION 
-| ------ | ----------- | ----- | ------------------- 
-| Institucion educativa fransisco jose de caldas  | Soledad(Atlantico) | 11 años | 2021
+
+## REFERENCIAS FAMILIARES
+| Nombre | Telefono | Ocupacion |
+|---|---|---|
+| WILLIAM CORTES IBARRA |3015534814 | COMERCIANTE |
+| PATRICIA ISABEL BARRIOS SERRANO | 3012578996 | AMA DE CASA |
 
 
+## EFERENCIAS PERSONALES 
+| Nombre | Telefono | Ocupacion |
+|---|---|---|
+|LUIS ANDRÉS CORTES BARRIOS | 3017318146 | INGENIERO
+	YULIS PAOLA VALDEZ BARRIOS | 3024333152 | SECRETARIA
