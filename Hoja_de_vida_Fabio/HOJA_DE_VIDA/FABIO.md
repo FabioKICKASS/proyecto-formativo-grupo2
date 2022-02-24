@@ -1,43 +1,37 @@
-## nombres y apellidos :  cortes barrios william andres
+## Nombres y apellidos : Fabio andres de la hoz garcia
 ![Mi foto](C:\Users\fabio\OneDrive\Documentos\GitHub\proyecto-formativo-grupo2\Hoja_de_vida_Fabio\Foto.jpg)
 
 
 | Datos | Valores |
 |---|---|
-|Dirección: | CARRERA 84N 108-21 |                                 
-|Barrio: | LAS FLORES|
+|Dirección: | Calle 19 #26-91 |                                 
+|Barrio: | Rebolo|
 |Ciudad | Barranquilla-Atlántico | 
-| Teléfono | 3186092944 |
-| E-mail | williamcortesbarrios32@gmail.com |
+| Teléfono | 3017012564 |
+| E-mail | fabioandresdelahozgar@gmail.com |
 
 ## PERFIL
-Soy una persona que le gustan los retos y estoy dispuesto a cumplir todas mis metas y logro y superar todos los obstáculos y me gusta ser una persona perseverante 
+Me gusta cumplir mis propositos.
+ 
 
 ## DATOS PERSONALES 
 | Datos | Valores |
 |---|---|
-|Identificación  | 1047036364|
-|Fecha de nacimiento | 10/08/2004 |
+|Identificación  | 1129531448|
+|Fecha de nacimiento | 10/11/2004 |
 |Edad | 17 años |
 |Estado Civil | Soltero |
 
 ## INFORMACIÓN ACADEMICA 
 | Datos | Valores |
 |---|---|
-| Estudios secundarios:  | I E D Las Flores (2021) |
-|Estudios primarios:      |  I E D Las Flores (2014)| 
+|Estudios primarios:|Institucion educativa fransisco jose de caldas (2010)|
+|Estudios secundarios:|Institucion educativa fransisco jose de caldas (2021)| 
 
 
 
 ## REFERENCIAS FAMILIARES
 | Nombre | Telefono | Ocupacion |
 |---|---|---|
-| WILLIAM CORTES IBARRA |3015534814 | COMERCIANTE |
-| PATRICIA ISABEL BARRIOS SERRANO | 3012578996 | AMA DE CASA |
+| MILDRED MILENA GARCIA LOGREIRA |3014870932 |Auxiliar de servicio general |
 
-
-## EFERENCIAS PERSONALES 
-| Nombre | Telefono | Ocupacion |
-|---|---|---|
-|LUIS ANDRÉS CORTES BARRIOS | 3017318146 | INGENIERO
-	YULIS PAOLA VALDEZ BARRIOS | 3024333152 | SECRETARIA
